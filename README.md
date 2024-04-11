@@ -1,4 +1,4 @@
-# ThaKumara Fluida
+# ThaKumara Amplas
 
 Kumara shade repo is a Shader Library from a previous project that ThaKumara made, 
 Usage of this shader just for non-commercial projects and must give credit to a creator “ThaKumara”
